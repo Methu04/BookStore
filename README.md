@@ -1,6 +1,6 @@
 # 📚 Bookstore REST API
 
-This is a Java-based RESTful API for a simple bookstore application, built using **JAX-RS (Jersey)**. which is a standard Java library for building RESTful web services and JSON is used for all request 
+This is a Java-based RESTful API for a simple bookstore application, built using **JAX-RS (Jersey)** which is a standard Java library for building RESTful web services and JSON is used for all request 
 and response bodies for the communication between the client and the server. It ensures a lightweight and 
 easy to read data format. For the testing of functionalities of the API endpoints and demonstration Postman 
 tool was used. Postman allows to send HTTP requests to the API and analyze the responses. HashMaps and 
